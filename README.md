@@ -5,4 +5,4 @@ Hi! Im small learning developer, I always liked technologies and now decided to 
 ## 🛠️ Projects
 [🔨 Topt](https://github.com/Sealmex/topt)
 
-A tool for generating small snippets of code or project a skeleton.
+A tool for generating small snippets of code or a project skeleton.
